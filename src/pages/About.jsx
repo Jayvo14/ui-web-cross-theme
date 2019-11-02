@@ -4,7 +4,7 @@ function About() {
   const value = "../img/bg-img/logo.png";
   return (
     <div>
-
+      
       <h1>
         About Us
       </h1>
